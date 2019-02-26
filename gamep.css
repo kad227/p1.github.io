@@ -1,4 +1,4 @@
-@media only screen and (max-width:600px) {
+
 #blue{
 
 	background-color: blue;
@@ -58,8 +58,8 @@
  	margin-left: -90px;
 
 }
-}
 
+@media (min-width:700px) {
 	#blue{
 
 	background-color: blue;
@@ -137,3 +137,4 @@
 }
 
 
+}
